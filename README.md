@@ -1,0 +1,2 @@
+# codebrianjo.net
+Domain redirect. 
